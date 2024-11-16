@@ -38,7 +38,7 @@ namespace TestApp.Controllers
             return View();
         }
 
-        public IActionResult baba()
+        public IActionResult baba1()
         {
             return View();
         }
